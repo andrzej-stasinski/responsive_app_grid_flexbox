@@ -1,0 +1,13 @@
+html {
+    --primary-color: yellow;
+    --secondary-color: #eeeeee; 
+    --primary-bg-color: #ffc0bb; 
+    --gutter: 16px;
+
+    /* --image-url: url(https://images.unsplash.com/photo-1583431339840-98103b6604d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2400&q=80); */
+    --image-url: url(https://images.unsplash.com/photo-1579781403337-de692320718a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2400&q=80);
+    --outline: none;
+
+}
+
+
